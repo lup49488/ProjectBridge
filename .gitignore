@@ -1,0 +1,25 @@
+**/.env*
+!**/.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+node_modules/
+frontend/dist/
+frontend/playwright-report/
+frontend/test-results/
+*.tsbuildinfo
+dist/
+coverage/
+*.tsbuildinfo
+.agent-handoff/
+
+# Submission media stays local and is uploaded separately to the event form.
+/docs/*.mp4
+/docs/*.m4a
+/docs/Picture *.png
