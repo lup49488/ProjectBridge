@@ -62,7 +62,7 @@ Pytest coverage lives under `tests/`; see [docs/TESTING.md](docs/TESTING.md) for
 
 ## Demo and release notes
 
-The reproducible local walkthrough is in [docs/DEMO.md](docs/DEMO.md); a time-coded video narration is in [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md). [docs/AI_USE.md](docs/AI_USE.md) records the development and in-product AI boundary, and [docs/THIRD_PARTY_NOTICES.md](docs/THIRD_PARTY_NOTICES.md) lists third-party resources and observed licenses. [docs/SUBMISSION.md](docs/SUBMISSION.md) tracks remaining evidence and release steps. No hosted demo or public repository URL is currently claimed.
+The reproducible local walkthrough is in [docs/DEMO.md](docs/DEMO.md); a time-coded video narration is in [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md). [docs/AI_USE.md](docs/AI_USE.md) records the development and in-product AI boundary, and [docs/THIRD_PARTY_NOTICES.md](docs/THIRD_PARTY_NOTICES.md) lists third-party resources and observed licenses. The public source repository is [lup49488/ProjectBridge](https://github.com/lup49488/ProjectBridge). No hosted demo is currently available.
 
 ## Scope
 
